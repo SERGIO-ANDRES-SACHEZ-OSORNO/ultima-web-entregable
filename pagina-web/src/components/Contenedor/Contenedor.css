@@ -1,0 +1,100 @@
+.img {
+    padding: 5px;
+    margin: 0px;
+    z-index: -1;    
+}
+.img .uno{
+   width: 100%; 
+   height: 100%;
+}
+.img .dos{
+    width: 100%; 
+    height: 92%; 
+ }
+ .img .tres{
+    width: 100%; 
+    height: 83%; 
+ }
+ .img .cuatro{
+    width: 100%; 
+    height: 100%; 
+ }
+ .img .cinco{
+    width: 100%; 
+    height: 100%; 
+ }
+ .img .seis{
+    width: 100%; 
+    height: 100%; 
+ }
+
+.img h1{
+    color: black; 
+}
+
+.img .one{
+position: relative;
+background-color: rgb(105, 125, 148);
+display:grid;
+justify-content:  stretch;
+align-items: stretch;
+width: 600px;
+height: 400px;
+top: 10px;
+left: 10px;
+}
+.img .two{
+    position: relative;
+background-color: rgb(105, 125, 148);
+display: grid;
+justify-content: stretch;
+align-items: stretch;
+width: 600px;
+height: 400px;
+top: -400px;
+left: 640px;
+}
+.img .three{
+    position: relative;
+background-color: rgb(105, 125, 148);
+display: grid;
+justify-content: stretch;
+align-items: stretch;
+width: 600px;
+height: 400px;
+top: -810px;
+left: 1270px;
+}
+.img .four{
+    position: relative;
+background-color: rgb(105, 125, 148);
+display: grid;
+justify-content: stretch;
+align-items: stretch;
+width: 600px;
+height: 400px;
+top: -800px;
+left: 10px;
+}
+.img .five{
+    position: relative;
+background-color: rgb(105, 125, 148);
+display: grid;
+justify-content: stretch;
+align-items: stretch;
+width: 600px;
+height: 400px;
+top: -1210px;
+left: 640px;
+}
+.img .six{
+    position: relative;
+background-color: rgb(105, 125, 148);
+display: grid;
+justify-content: stretch;
+align-items: stretch;
+width: 600px;
+height: 400px;
+top: -1620px;
+left: 1270px;
+}

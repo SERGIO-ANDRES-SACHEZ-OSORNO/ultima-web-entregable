@@ -1,0 +1,69 @@
+.contenedor{
+    position: relative; 
+    width: 650px;
+    height: 50px;
+    top:-1565px ;    
+    left: 50%;
+    transform: translate(-50%,-50%);
+
+}
+
+.redes ul{
+   list-style: none;
+}
+.redes ul li{
+    width: 75px;
+    height: 75px;
+    line-height: 75px;
+    margin: 0 10px;
+    text-align: center;
+    cursor: pointer;
+    border-radius: 50%;
+    border: 5px solid rgb(183, 199, 218);
+    float: left;
+    transition: all 0.5s ease;
+}
+.redes ul li .fa{
+    color: white;
+    margin-top: 20px;
+    transition: all 0.25s ease;
+}
+.redes ul li:hover.facebook{
+    color: yellow;
+    text-shadow: 0 0 15px yellow;
+    border: 5px solid #ffc000;
+    box-shadow: 0 0 15px #ffc000;
+    transition: all 0.25s ease;
+}
+.redes ul li:hover.twitter{
+    color: yellow;
+    text-shadow: 0 0 15px yellow;
+    border: 5px solid #ffc000;
+    box-shadow: 0 0 15px #ffc000;
+    transition: all 0.25s ease;
+}
+.redes ul li:hover.instagram{
+    color: yellow;
+    text-shadow: 0 0 15px yellow;
+    border: 5px solid #ffc000;
+    box-shadow: 0 0 15px #ffc000;
+    transition: all 0.25s ease;
+}
+.redes ul li:hover.google{
+    color: yellow;
+    text-shadow: 0 0 15px yellow;
+    border: 5px solid #ffc000;
+    box-shadow: 0 0 15px #ffc000;
+    transition: all 0.25s ease;
+}
+.redes ul li:hover.whatsapp{
+    color: yellow;
+    text-shadow: 0 0 15px yellow;
+    border: 5px solid #ffc000;
+    box-shadow: 0 0 15px #ffc000;
+    transition: all 0.25s ease;
+}
+footer{
+    position: relative;
+    top: 0px;
+}
